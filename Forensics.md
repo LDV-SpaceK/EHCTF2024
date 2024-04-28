@@ -1,4 +1,4 @@
-![ảnh](https://github.com/LDV-SpaceK/EHCTF2024/assets/151914246/e37ec529-818b-44ab-9470-88800362c2e6)# README
+# README
 
 ![ảnh](https://github.com/LDV-SpaceK/EHCTF2024/assets/151914246/490c8239-a3db-497c-a269-b5ee8c9e52a1)
 
